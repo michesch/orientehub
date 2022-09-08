@@ -1,5 +1,6 @@
 body{
     background-color: #151b1b;
+justify-content: center;
 }
 header{
     padding-top: 30px;
@@ -19,6 +20,9 @@ a.nav-link{
     font-family: 'Barlow', sans-serif;
     font-weight: 500;
     font-size: 22px;
+    color: #fbbb25;
+}
+button.navbar-toggler{
     color: #fbbb25;
 }
 div.social{
